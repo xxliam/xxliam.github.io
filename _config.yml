@@ -1,6 +1,6 @@
 # Site Settings
-name: XXliam-Web
-title: XXliam-Web | Jekyll
+name: XXliam の　Web
+title: XXliam の　Web | Jekyll
 description: This is a simple web -xxliam
 tags:
   - blog
@@ -12,15 +12,13 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
     
 email: liam20110518@outlook.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+#disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+#formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
