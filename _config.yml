@@ -1,14 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: XXliam-Web
+title: XXliam-Web | Jekyll
+description: This is a simple web -xxliam
 tags:
   - blog
-  - template
+  - xxliam
   - jekyll
   - theme
-  - netlify
 show_hero: true
 menu:
   - title: Home
@@ -19,7 +17,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: liam20110618@outlook.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -110,4 +108,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: v1.33.7
