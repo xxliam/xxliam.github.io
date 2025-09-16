@@ -1,7 +1,7 @@
 ---
 date: 2025-09-16 12:00:00
 layout: post
-title: Collecting Stones （Cai Shi）
+title: Stone quarrying （Cai Shi）
 subtitle: by WoSuNiudun - 鉴证是一种态度
 description: by WoSuNiudun
 image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy9oyT107Pkt30sPPUkuk9hwmffEHwACRzoAAvOKSVaH4_o1IkIiIDYE.jpeg
@@ -78,7 +78,7 @@ author: xxliam
 
 ---
 
-# 《Collecting Stones》  
+# 《Stone quarrying》  
 ## （Cai Shi）
 ## by WoSuNiudun
 
@@ -139,6 +139,7 @@ New stones are transported from the mountains.
 The faint rumble of thunder is heard,  
 Mixed with the sound of explosions.  
 At the mountain pass, souls look back again.  
+
 
 
 
