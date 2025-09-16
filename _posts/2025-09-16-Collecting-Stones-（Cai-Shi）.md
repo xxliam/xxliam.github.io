@@ -78,7 +78,8 @@ author: xxliam
 
 ---
 
-# 《Collecting Stones （Cai Shi）》
+# 《Collecting Stones》  
+## （Cai Shi）
 ## by WoSuNiudun
 
 When being cut,
@@ -138,6 +139,7 @@ New stones are transported from the mountains.
 The faint rumble of thunder is heard,
 Mixed with the sound of explosions.
 At the mountain pass, souls look back again.
+
 
 
 
