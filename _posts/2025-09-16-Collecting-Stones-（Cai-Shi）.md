@@ -82,63 +82,64 @@ author: xxliam
 ## （Cai Shi）
 ## by WoSuNiudun
 
-When being cut,
-The stone looks up at the cutter—also cut,
-In this cut era, I, too, am cut.
-Embarking on a journey of formation,
-I keep moving toward the unknown distance.
+When being cut,  
+The stone looks up at the cutter—also cut,  
+In this cut era, I, too, am cut.  
+Embarking on a journey of formation,  
+I keep moving toward the unknown distance.  
 
-After being cut, it falls silent.
-Its natural freedom,
-Once turned into a step,
-Helplessly stays in place.
-The footsteps of the era trample over me,
-Leaving nothing but a layer of dust.
-Footprints cover the ground above,
-Dust blinds my eyes,
-And dark clouds gather ahead.
+After being cut, it falls silent.    
+Its natural freedom,  
+Once turned into a step,  
+Helplessly stays in place.  
+The footsteps of the era trample over me,  
+Leaving nothing but a layer of dust.  
+Footprints cover the ground above,  
+Dust blinds my eyes,  
+And dark clouds gather ahead.  
 
-Poor stones, uncelebrated and unknown—
-This widespread dust is the trace that proves you were here.
-Countless souls of my kin,
-Herald the advance of this era.
-Poor stones, uncelebrated and unknown—
-When they mined you, did they ever think:
-Could they themselves be a poor stone?
-When they cut you, did they ever realize:
-They would also become silent steps?
+Poor stones, uncelebrated and unknown—  
+This widespread dust is the trace that proves you were here.  
+Countless souls of my kin,  
+Herald the advance of this era.  
+Poor stones, uncelebrated and unknown—  
+When they mined you, did they ever think:  
+Could they themselves be a poor stone?  
+When they cut you, did they ever realize:  
+They would also become silent steps?  
 
-When people look down at the statues, do they ever think:
-The stones on the base are the original starting point?
+When people look down at the statues, do they ever think:  
+The stones on the base are the original starting point?  
 
-When people look down at the statues, do they ever think:
-The tiny stones on the base, unnoticed, never complained?
+When people look down at the statues, do they ever think:  
+The tiny stones on the base, unnoticed, never complained?  
 
-In this cut era,
-Stones come from deep mountains,
-Marching toward an unknown future.
-One by one, they turn to dust—
-Yet in the dust, there lies longing for the future.
-Some stones become statues,
-Others become bases.
+In this cut era,  
+Stones come from deep mountains,  
+Marching toward an unknown future.  
+One by one, they turn to dust—   
+Yet in the dust, there lies longing for the future.  
+Some stones become statues,  
+Others become bases.  
 
-When the statues overlook the people, do they ever think:
-Without the stones beneath their feet,
-There would be no beginning for these statues?
+When the statues overlook the people, do they ever think:  
+Without the stones beneath their feet,  
+There would be no beginning for these statues?  
 
-When the statues stand high above, do they jever know:
-The quartz within them,
-Is the shattered backbone of my kin?
+When the statues stand high above, do they jever know:  
+The quartz within them,  
+Is the shattered backbone of my kin?  
 
-Remember these steps of the era—
-The steps we trample on.
-Hundreds of millions of shattered backbones,
-Prop up the illusory bubble of the era’s progress.
+Remember these steps of the era—  
+The steps we trample on.  
+Hundreds of millions of shattered backbones,  
+Prop up the illusory bubble of the era’s progress.  
 
-New stones are transported from the mountains.
-The faint rumble of thunder is heard,
-Mixed with the sound of explosions.
-At the mountain pass, souls look back again.
+New stones are transported from the mountains.  
+The faint rumble of thunder is heard,  
+Mixed with the sound of explosions.  
+At the mountain pass, souls look back again.  
+
 
 
 
