@@ -2,7 +2,7 @@
 date: 2025-09-16 12:00:00
 layout: post
 title: Collecting Stones （Cai Shi）
-subtitle: by WoSunNiudun
+subtitle: by WoSuNiudun/热爱鉴证
 description: by WoSuNiudun
 image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy9oyT107Pkt30sPPUkuk9hwmffEHwACRzoAAvOKSVaH4_o1IkIiIDYE.jpeg
 optimized_image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy9oyT107Pkt30sPPUkuk9hwmffEHwACRzoAAvOKSVaH4_o1IkIiIDYE.jpeg
@@ -75,6 +75,7 @@ author: xxliam
 听到雷鸣隐隐  
 交织爆破  
 灵魂在山口又回顾
+
 
 
 
