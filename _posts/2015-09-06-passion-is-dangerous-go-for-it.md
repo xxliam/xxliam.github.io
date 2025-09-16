@@ -4,17 +4,20 @@ layout: post
 title: Passion is dangerous, go for it!
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy1oyTiTM8NF37PgrhIRMD0PFV6PHgACPToAAvOKSVbevk7TZtPwZjYE.png
-optimized_image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy1oyTiTM8NF37PgrhIRMD0PFV6PHgACPToAAvOKSVbevk7TZtPwZjYE.png
-category: work
+image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy9oyT107Pkt30sPPUkuk9hwmffEHwACRzoAAvOKSVaH4_o1IkIiIDYE.jpeg
+optimized_image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy9oyT107Pkt30sPPUkuk9hwmffEHwACRzoAAvOKSVaH4_o1IkIiIDYE.jpeg
+category: poem
 tags:
-  - work
-  - career
+  - poem
+  - China
 author: mranderson
 ---
 
-《采石》
---我素牛顿
+# 《采石》
+## --我素牛顿
+
+---
+
 被切割的石头
 被切割的时候
 望向使它被切割的被切割的人
@@ -74,3 +77,4 @@ author: mranderson
 听到雷鸣隐隐
 交织爆破
 灵魂在山口又回顾
+
