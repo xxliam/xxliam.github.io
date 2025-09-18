@@ -4,8 +4,8 @@ layout: post
 title: Stone quarrying （采石）
 subtitle: by WoSuNiudun - 鑒證是一種態度
 description: by WoSuNiudun - 鑒證是一種態度
-image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy9oyT107Pkt30sPPUkuk9hwmffEHwACRzoAAvOKSVaH4_o1IkIiIDYE.jpeg
-optimized_image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECFy9oyT107Pkt30sPPUkuk9hwmffEHwACRzoAAvOKSVaH4_o1IkIiIDYE.jpeg
+image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECKFBozCD591f8-54ot0fgOIGjAjhZlgAC5BwAAhwQYVbqCIBpZQABjdI2BA.jpeg
+optimized_image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECKFBozCD591f8-54ot0fgOIGjAjhZlgAC5BwAAhwQYVbqCIBpZQABjdI2BA.jpeg
 category: poem
 tags:
   - poem
@@ -139,6 +139,7 @@ New stones are transported from the mountains.
 The faint rumble of thunder is heard,  
 Mixed with the sound of explosions.  
 At the mountain pass, souls look back again.  
+
 
 
 
