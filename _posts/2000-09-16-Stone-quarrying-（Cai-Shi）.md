@@ -1,5 +1,5 @@
 ---
-date: 2025-09-16 12:00:00
+date: 2000-09-16 12:00:00
 layout: post
 title: Stone quarrying （Cai Shi）
 subtitle: by WoSuNiudun - 鑒證是一種態度
@@ -139,6 +139,7 @@ New stones are transported from the mountains.
 The faint rumble of thunder is heard,  
 Mixed with the sound of explosions.  
 At the mountain pass, souls look back again.  
+
 
 
 
