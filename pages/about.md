@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img src="https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECF1doyUNbzQxDMaGoO_AeagTeqfJ7_gAChDoAAvOKSVYB88JuSZXsuzYE.png" alt="1757945669915746.png" />
+<i#mg src="https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECF1doyUNbzQxDMaGoO_AeagTeqfJ7_gAChDoAAvOKSVYB88JuSZXsuzYE.png" alt="1757945669915746.png" />
 
 # About
 
